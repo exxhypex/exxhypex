@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://github.com/exxhypex?tab=repositories"><picture><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/EXPLORE_PROJECTS-EAF6FA?style=for-the-badge&logo=github&logoColor=147D9E&labelColor-EAF6FA"><img src="https://img.shields.io/badge/EXPLORE_PROJECTS-0B1728?style=for-the-badge&logo=github&logoColor=9BE7FF&labelColor=0B1728" alt="Explore projects" /></picture></a>
+<a href="https://github.com/exxhypex?tab=repositories"><picture><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/EXPLORE_PROJECTS-EAF6FA?style=for-the-badge&logo=github&logoColor=147D9E&labelColor=EAF6FA"><img src="https://img.shields.io/badge/EXPLORE_PROJECTS-0B1728?style=for-the-badge&logo=github&logoColor=9BE7FF&labelColor=0B1728" alt="Explore projects" /></picture></a>
 <a href="https://github.com/exxhypex"><picture><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/FOLLOW-EXXHYPEX-EAF6FA?style=for-the-badge&logo=github&logoColor=147D9E&labelColor=EAF6FA"><img src="https://img.shields.io/badge/FOLLOW-EXXHYPEX-0B1728?style=for-the-badge&logo=github&logoColor=9BE7FF&labelColor=0B1728" alt="Follow EXXHYPEX" /></picture></a>
 
 <br/><br/>

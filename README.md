@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="./assets/v2-hero.svg" width="100%" alt="EXXHYPEX — Explore, experiment, build" />
+<img src="./assets/v2-hero.svg" width="88%" alt="EXXHYPEX — Explore, experiment, build" />
 
 <br/>
 
-<a href="https://github.com/exxhypex?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_PROJECTS-123247?style=for-the-badge&logo=github&logoColor=8CEBFF" alt="Explore projects" /></a>
-<a href="https://github.com/exxhypex"><img src="https://img.shields.io/badge/FOLLOW-EXXHYPEX-123247?style=for-the-badge&logo=github&logoColor=8CEBFF" alt="Follow EXXHYPEX" /></a>
+<a href="https://github.com/exxhypex?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-173449?style=flat-square&logo=github&logoColor=8CEBFF" alt="Explore projects" /></a>
+<a href="https://github.com/exxhypex"><img src="https://img.shields.io/badge/GITHUB-EXXHYPEX-173449?style=flat-square&logo=github&logoColor=8CEBFF" alt="GitHub profile" /></a>
 
 <br/><br/>
 
@@ -13,7 +13,7 @@
 
 <br/>
 
-<a href="#about">ABOUT</a> &nbsp;·&nbsp; <a href="#ecosystem">ECOSYSTEM</a> &nbsp;·&nbsp; <a href="#work">PROJECTS</a> &nbsp;·&nbsp; <a href="#lab">CURRENT LAB</a> &nbsp;·&nbsp; <a href="#activity">ACTIVITY</a> &nbsp;·&nbsp; <a href="#connect">CONNECT</a>
+<a href="#about"><img src="https://img.shields.io/badge/ABOUT-173449?style=flat-square&labelColor=173449&color=173449" alt="About" /></a> <a href="#ecosystem"><img src="https://img.shields.io/badge/ECOSYSTEM-173449?style=flat-square&labelColor=173449&color=173449" alt="Ecosystem" /></a> <a href="#work"><img src="https://img.shields.io/badge/PROJECTS-173449?style=flat-square&labelColor=173449&color=173449" alt="Projects" /></a> <a href="#lab"><img src="https://img.shields.io/badge/LAB-173449?style=flat-square&labelColor=173449&color=173449" alt="Lab" /></a> <a href="#activity"><img src="https://img.shields.io/badge/ACTIVITY-173449?style=flat-square&labelColor=173449&color=173449" alt="Activity" /></a> <a href="#connect"><img src="https://img.shields.io/badge/CONNECT-173449?style=flat-square&labelColor=173449&color=173449" alt="Connect" /></a>
 
 <br/><br/>
 
@@ -43,20 +43,20 @@ I enjoy looking beneath the interface: exploring how systems work, testing ideas
 
 <div align="center">
 
-<img src="./assets/v2-tech-orbit.svg" width="100%" alt="Animated EXXHYPEX technology ecosystem: Android, Linux, AI and software" />
+<img src="./assets/v2-tech-orbit.svg" width="88%" alt="Animated EXXHYPEX technology ecosystem: Android, Linux, AI and software" />
 
 </div>
 
 **Languages & foundations**
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,kotlin,python,js,ts,html,css,bash,c,cpp&theme=dark&perline=5" width="100%" alt="Languages and foundations" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,python,js,ts,html,css,bash,c,cpp&theme=dark&perline=6" alt="Languages and foundations" />
 </div>
 
 **Platforms & tools**
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=androidstudio,linux,git,github,vscode,react,nodejs,tailwind,docker&theme=dark&perline=5" width="100%" alt="Platforms and tools" />
+<img src="https://skillicons.dev/icons?i=androidstudio,linux,git,github,vscode,react,nodejs,tailwind,docker&theme=dark&perline=5" alt="Platforms and tools" />
 </div>
 
 <sub>These icons represent technologies I explore and experiment with, not a claim of expert-level proficiency in every tool.</sub>
@@ -67,37 +67,37 @@ I enjoy looking beneath the interface: exploring how systems work, testing ideas
 
 A few things from my Android and developer-tooling workspace.
 
-<a href="https://github.com/exxhypex/HypZen"><img src="./assets/project-hypzen.svg" width="100%" alt="HypZen — Android flashing app experiment" /></a>
+<a href="https://github.com/exxhypex/HypZen"><img src="./assets/project-hypzen.svg" width="88%" alt="HypZen — Android flashing app experiment" /></a>
 
 **HypZen** · Kotlin · Android
 
 An Android flashing app experiment.
 
-[Open repository](https://github.com/exxhypex/HypZen)
+<a href="https://github.com/exxhypex/HypZen"><img src="https://img.shields.io/badge/VIEW_SOURCE-173449?style=flat-square&logo=github&logoColor=8CEBFF" alt="View HypZen source" /></a>
 
 <br/>
 
-<a href="https://github.com/exxhypex/Action-Recovery-Builder"><img src="./assets/project-recovery.svg" width="100%" alt="Action Recovery Builder — automated custom recovery builds" /></a>
+<a href="https://github.com/exxhypex/Action-Recovery-Builder"><img src="./assets/project-recovery.svg" width="88%" alt="Action Recovery Builder — automated custom recovery builds" /></a>
 
 **Action Recovery Builder** · GitHub Actions · Android
 
 A workflow project for building custom recoveries, including TWRP, OrangeFox, PBRP and SHRP.
 
-[Open repository](https://github.com/exxhypex/Action-Recovery-Builder)
+<a href="https://github.com/exxhypex/Action-Recovery-Builder"><img src="https://img.shields.io/badge/VIEW_SOURCE-173449?style=flat-square&logo=github&logoColor=8CEBFF" alt="View Action Recovery Builder source" /></a>
 
 <br/>
 
-<a href="https://github.com/exxhypex/device_xiaomi_stone_twrp"><img src="./assets/project-stone.svg" width="100%" alt="Xiaomi Stone — Redmi Note 12 5G recovery device tree" /></a>
+<a href="https://github.com/exxhypex/device_xiaomi_stone_twrp"><img src="./assets/project-stone.svg" width="88%" alt="Xiaomi Stone — Redmi Note 12 5G recovery device tree" /></a>
 
 **Xiaomi Stone** · Android · Device tree
 
 A TWRP device-tree project for the Redmi Note 12 5G (stone).
 
-[Open repository](https://github.com/exxhypex/device_xiaomi_stone_twrp)
+<a href="https://github.com/exxhypex/device_xiaomi_stone_twrp"><img src="https://img.shields.io/badge/VIEW_SOURCE-173449?style=flat-square&logo=github&logoColor=8CEBFF" alt="View Xiaomi Stone source" /></a>
 
 <div align="center">
 
-<a href="https://github.com/exxhypex?tab=repositories"><img src="https://img.shields.io/badge/DISCOVER_ALL_REPOSITORIES-123247?style=for-the-badge&logo=github&logoColor=8CEBFF" alt="Discover all repositories" /></a>
+<a href="https://github.com/exxhypex?tab=repositories"><img src="https://img.shields.io/badge/ALL_REPOSITORIES-173449?style=flat-square&logo=github&logoColor=8CEBFF" alt="All repositories" /></a>
 
 </div>
 
@@ -128,11 +128,11 @@ A TWRP device-tree project for the Redmi Note 12 5G (stone).
 
 **Contribution timeline**
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=exxhypex&bg_color=0D1722&color=D8E7F0&line=58D4F2&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=exxhypex&bg_color=0D1722&color=D8E7F0&line=58D4F2&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/exxhypex/exxhypex/output/github-contribution-grid-snake.svg" width="100%" alt="Animated GitHub contribution trail" />
+<img src="https://raw.githubusercontent.com/exxhypex/exxhypex/output/github-contribution-grid-snake.svg" width="92%" alt="Animated GitHub contribution trail" />
 
 </div>
 
@@ -148,10 +148,10 @@ I'm always interested in discovering something new.
 
 <br/>
 
-<a href="https://github.com/exxhypex"><img src="https://img.shields.io/badge/GITHUB-EXXHYPEX-123247?style=for-the-badge&logo=github&logoColor=8CEBFF" alt="GitHub profile" /></a>
+<a href="https://github.com/exxhypex"><img src="https://img.shields.io/badge/GITHUB-EXXHYPEX-173449?style=flat-square&logo=github&logoColor=8CEBFF" alt="GitHub profile" /></a>
 
 <br/><br/>
 
-<img src="./assets/v2-footer.svg" width="100%" alt="EXXHYPEX — powered by curiosity" />
+<img src="./assets/v2-footer.svg" width="88%" alt="EXXHYPEX — powered by curiosity" />
 
 </div>

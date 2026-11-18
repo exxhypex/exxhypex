@@ -43,7 +43,7 @@ I enjoy looking beneath the interface: exploring how systems work, testing ideas
 
 <div align="center">
 
-<img src="./assets/v2-tech-orbit.svg" width="88%" alt="Animated EXXHYPEX technology ecosystem: Android, Linux, AI and software" />
+<img src="./assets/v2-tech-orbit.svg" width="96%" alt="EXXHYPEX technology orbit: Android, Linux, AI Lab and Software" />
 
 </div>
 

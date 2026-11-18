@@ -100,13 +100,13 @@ I don't want to stop at using technology. I want to understand how it works and 
 
 **Languages & foundations**
 
-<picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,kotlin,python,js,ts,html,css,bash,c,cpp&theme=light&perline=10"><img src="https://skillicons.dev/icons?i=java,kotlin,python,js,ts,html,css,bash,c,cpp&theme=dark&perline=10" alt="Languages and foundations" /></picture>
+<img src="https://skillicons.dev/icons?i=java,kotlin,python,js,ts,html,css,bash,c,cpp&theme=dark&perline=5" width="100%" alt="Languages and foundations" />
 
 <br/><br/>
 
 **Platforms & tools**
 
-<picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=androidstudio,linux,git,github,vscode,react,nodejs,tailwind,docker&theme=light&perline=9"><img src="https://skillicons.dev/icons?i=androidstudio,linux,git,github,vscode,react,nodejs,tailwind,docker&theme=dark&perline=9" alt="Platforms and tools" /></picture>
+<img src="https://skillicons.dev/icons?i=androidstudio,linux,git,github,vscode,react,nodejs,tailwind,docker&theme=dark&perline=5" width="100%" alt="Platforms and tools" />
 
 </div>
 
@@ -136,37 +136,32 @@ Explore my repositories, experiments, and open-source contributions.
 
 **Contribution overview**
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=exxhypex&show_icons=true&hide_border=true&bg_color=F4FAFD&title_color=087B9C&icon_color=087B9C&text_color=243B4A&include_all_commits=true#gh-light-mode-only" alt="GitHub statistics — light theme" />
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=exxhypex&show_icons=true&hide_border=true&bg_color=0D1722&title_color=9BE7FF&icon_color=9BE7FF&text_color=D8E7F0&include_all_commits=true#gh-dark-mode-only" alt="GitHub statistics — dark theme" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=exxhypex&show_icons=true&hide_border=true&bg_color=0D1722&title_color=9BE7FF&icon_color=9BE7FF&text_color=D8E7F0&include_all_commits=true" alt="GitHub statistics" />
 
 <br/><br/>
 
 **Most used languages**
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exxhypex&layout=compact&hide_border=true&bg_color=F4FAFD&title_color=087B9C&text_color=243B4A&langs_count=8#gh-light-mode-only" alt="Most used languages — light theme" />
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exxhypex&layout=compact&hide_border=true&bg_color=0D1722&title_color=9BE7FF&text_color=D8E7F0&langs_count=8#gh-dark-mode-only" alt="Most used languages — dark theme" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exxhypex&layout=compact&hide_border=true&bg_color=0D1722&title_color=9BE7FF&text_color=D8E7F0&langs_count=8" alt="Most used languages" />
 
 <br/><br/>
 
 **Contribution streak**
 
-<img width="100%" src="https://streak-stats.demolab.com?user=exxhypex&theme=default&hide_border=true&background=F4FAFD&ring=087B9C&fire=087B9C&currStreakLabel=087B9C&sideLabels=344D5E&currStreakNum=173C50&sideNums=173C50&dates=526B7B#gh-light-mode-only" alt="Contribution streak — light theme" />
-<img width="100%" src="https://streak-stats.demolab.com?user=exxhypex&theme=transparent&hide_border=true&background=0D1722&ring=9BE7FF&fire=9BE7FF&currStreakLabel=9BE7FF&sideLabels=C6D8E5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8299AA#gh-dark-mode-only" alt="Contribution streak — dark theme" />
+<img width="100%" src="https://streak-stats.demolab.com?user=exxhypex&theme=transparent&hide_border=true&background=0D1722&ring=9BE7FF&fire=9BE7FF&currStreakLabel=9BE7FF&sideLabels=C6D8E5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8299AA" alt="Contribution streak" />
 
 <br/><br/>
 
 **Contribution activity**
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=exxhypex&bg_color=F4FAFD&color=344D5E&line=087B9C&point=087B9C&area=true&hide_border=true&custom_title=Contribution%20Activity#gh-light-mode-only" alt="Contribution activity graph — light theme" />
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=exxhypex&bg_color=0D1722&color=D8E7F0&line=74D9F5&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity#gh-dark-mode-only" alt="Contribution activity graph — dark theme" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=exxhypex&bg_color=0D1722&color=D8E7F0&line=74D9F5&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
 
 </div>
 
 ### Contribution trail
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/exxhypex/exxhypex/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="100%" alt="Animated GitHub contribution snake — light theme" />
-  <img src="https://raw.githubusercontent.com/exxhypex/exxhypex/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="100%" alt="Animated GitHub contribution snake — dark theme" />
+  <img src="https://raw.githubusercontent.com/exxhypex/exxhypex/output/github-contribution-grid-snake.svg" width="100%" alt="Animated GitHub contribution trail" />
 </div>
 
 <a id="connect"></a>

@@ -26,7 +26,7 @@
 
 **Identity**
 
-- Username: \`EXXHYPEX\`
+- Username: `EXXHYPEX`
 - Role: Independent Developer & Technology Enthusiast
 - Mindset: Learn. Experiment. Create.
 - Status: Always Exploring
@@ -116,7 +116,7 @@ I believe technology has no boundaries — there's always something new to explo
 
 ## > current_mission.sh
 
-\`\`\`bash
+```bash
 #!/usr/bin/env bash
 
 echo "[+] Initializing next-generation ideas..."
@@ -129,12 +129,12 @@ mission=(
   "Learn something new every day"
 )
 
-for task in "\${mission[@]}"; do
+for task in "${mission[@]}"; do
     echo "[RUNNING] $task"
 done
 
 echo "[SUCCESS] Never stop exploring."
-\`\`\`
+```
 
 ---
 
@@ -199,7 +199,7 @@ Let's connect, collaborate, and create.
 
 <br/>
 
-\`[ SYSTEM STATUS: ONLINE ]\`
+`[ SYSTEM STATUS: ONLINE ]`
 
 </div>
 
